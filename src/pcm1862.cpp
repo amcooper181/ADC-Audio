@@ -35,3 +35,10 @@ void PCM1862::readRegister(uint8_t registerAddress) {
         Serial.println("Failed to read data from PCM1862");
     }
 }
+
+void PCM1862::writeRegister(uint8_t registerAddress, uint8_t value) {
+    _selectRegister(registerAddress);
+    Wire.beginTransmission(_i2cAddress);  // 1 Byte registers  
+    Wire.write(val);
+    Wire.endTransmission();
+}
