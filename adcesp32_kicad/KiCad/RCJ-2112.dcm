@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCJ-2112
+D 3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder
+K
+F https://www.cuidevices.com/product/resource/rcj-21xx.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM1862DBT
+D 103dB 2-Channel Software-Controlled Audio ADC With Universal Front End
+K
+F 
+$ENDCMP
+#
+#End Doc Library
