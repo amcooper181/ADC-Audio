@@ -1,5 +1,6 @@
-#include <arduino.h>
+#include <Arduino.h>
 #include <Wire.h>
+
 
 class PCM1862 {
 public:
