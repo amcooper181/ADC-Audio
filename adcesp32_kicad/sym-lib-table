@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "PCM1862DBT")(type "KiCad")(uri "${KIPRJMOD}/KiCad/PCM1862DBT.kicad_sym")(options "")(descr ""))
   (lib (name "RCJ-2112")(type "KiCad")(uri "${KIPRJMOD}/KiCad/RCJ-2112.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS526_SMG15J_SMTR2_LFS")(type "KiCad")(uri "${KIPRJMOD}/KiCad/PTS526_SMG15J_SMTR2_LFS.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ-43514")(type "Legacy")(uri "${KIPRJMOD}/KiCad/SJ-43514.lib")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/KiCad/TS-1187A-B-A-B.kicad_sym")(options "")(descr ""))
 )

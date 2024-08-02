@@ -1,4 +1,4 @@
-23762474652478370
+23750421816834836
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63455,8 +63455,22 @@ solder jumper open
 5
 3
 KiCad
+PTS526SMG15JSMTR2LFS
+PTS526 SMG15J SMTR2 LFS-1
+Switch
+0
+6
+6
+KiCad
 RCJ2112
 RCJ-2112-1
+Connector
+0
+4
+4
+KiCad
+SJ43514
+SJ-43514-1
 Connector
 0
 4
@@ -63468,6 +63482,13 @@ Integrated Circuit
 0
 30
 30
+KiCad
+SW_TS-1187A-B-A-B
+
+
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
