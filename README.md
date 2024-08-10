@@ -6,7 +6,7 @@ The **ESP32 Analog to Digital Streamer** is a project designed to capture analog
 
 ## Features
 
-- **High-Quality Audio Capture:** Utilizes the PCM1862 codec for precise analog-to-digital conversion.
+- **High-Quality Audio Capture:** Utilizes the PCM1862 ADC for precise analog-to-digital conversion.
 - **Real-Time Streaming:** Stream audio data over Wi-Fi using the ESP32's built-in capabilities.
 - **High Sample Rate:** 96 kHz at 24 bits
 - **Low Latency:** Optimized for low-latency streaming to ensure real-time audio processing.
