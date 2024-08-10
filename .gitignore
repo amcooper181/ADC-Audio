@@ -10,3 +10,5 @@ include/
 lib/
 test/
 *.code-workspace
+adcesp32_kicad/adcesp32-backups/*
+adcesp32_kicad/adcesp32-backups/
